@@ -75,10 +75,13 @@ nav{
     padding: 5px 5px 5px 5px;
     border-radius: 8px;
     background: rgb(13, 19, 33);
-    color: white;
     font-family: Azeret Mono;
     font-size: 17px;
     margin-top: 21px;
+}
+.hero-btn>a{
+    color: white;
+    text-decoration: none;
 }
 .hero-btn:hover{
     opacity: 0.6;
