@@ -78,9 +78,9 @@ nav{
     font-family: Azeret Mono;
     font-size: 17px;
     margin-top: 21px;
+    color: white;
 }
 .hero-btn>a{
-    color: white;
     text-decoration: none;
 }
 .hero-btn:hover{
