@@ -367,3 +367,38 @@ a{
 
 
 /* footer section */
+footer{
+    min-height: 86px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    background: rgba(13, 19, 33, 0.03);
+    align-items: center;
+}
+.footer-items{
+    height: 31px; 
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    /* margin-top: 27px; */
+    /* border: 2px solid red; */
+    padding-top: 27px;
+}
+.footer-text{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 17px;
+    font-weight: 600;
+}
+.footer-icons{
+    /* text-decoration: none;  */
+    /* height: 10px;
+    align-items: center; */
+}
+.footer-img{
+    height: 31px;
+    padding-right: 21px;
+}
+a{
+    text-decoration: none;
+}
