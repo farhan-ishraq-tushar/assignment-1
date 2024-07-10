@@ -216,3 +216,60 @@ iframe{
     height: 473px;
     border-radius: 10px;
 }
+
+
+/* my current section */
+.my-current{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.my-current-target-title{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 19px;
+    font-weight: 800;
+}
+.my-current-target-text{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 19px;
+}
+.my-current-img{
+    width: 48px;
+    height: 48px;
+}
+a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+.my-current-target{
+    /* height: 197px;
+    width: 900px; */
+    display: flex;
+    /* margin: 0 auto; */
+    margin-top: 41px;
+
+    /* justify-content: center; */
+    /* align-items: center; */
+    gap: 21px;
+}
+.my-current-target-html{
+    border-radius: 16px;
+    padding: 34px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.my-current-target-css{
+    border-radius: 16px;
+    padding: 34px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.my-current-target-js{
+    border-radius: 16px;
+    padding: 34px;
+    background: rgba(255, 223, 0, 0.05);
+}
