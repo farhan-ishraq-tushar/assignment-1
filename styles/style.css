@@ -261,7 +261,7 @@ a{
 }
 
 
-/* my-next-sectionm */
+/* my-next-section style */
 .my-next{
     width: 900px;
     margin: 0 auto;
@@ -289,7 +289,7 @@ a{
     margin-top: 41px;
 }
 
-/* support section */
+/* support section style */
 .support{
     background-image: url(../assets/handshake.jpg);
     background-color: rgba(0, 0, 0, 0.5);
@@ -355,7 +355,6 @@ a{
 /* footer section */
 footer{
     min-height: 86px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     background: rgba(13, 19, 33, 0.03);
     align-items: center;
